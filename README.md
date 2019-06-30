@@ -1,7 +1,4 @@
-   <html>
-	<head>
-        <meta charset="UTF-8" />
-        <title>index</title>
+
         <style>
             html,
             body {
@@ -56,7 +53,7 @@
         </style>
     </head>
 
-    <body>
+
         <div class="main">
 	 <h1>灰灰av最新地址发布-猫咪AV</h1>
             <div class="content">
@@ -90,5 +87,4 @@
 	 <div style="display:none">  
 	 
 	 </div>
-    </body>
-</html>
+
