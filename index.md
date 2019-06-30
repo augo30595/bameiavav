@@ -1,4 +1,7 @@
-
+ <html>
+	<head>
+        <meta charset="UTF-8" />
+        <title>index</title>
         <style>
             html,
             body {
@@ -39,7 +42,7 @@
                 font-style: normal;
                 display: block;
                 margin: 2px 0;
-        font-size: 20px;
+		font-size: 20px;
             }
             .content-top li{
                 padding: 20px 0;
@@ -55,34 +58,37 @@
 
     <body>
         <div class="main">
-     <h1>八妹AV最新地址</h1>
+	 <h1>灰灰av最新地址发布-猫咪AV</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            八妹AV最新地址
-                            <a href="https://bameiav1.com" target="_blank">https://bameiav1.com</a>
+                            灰灰av最新地址
+                            <a href="https://hhav14.com" target="_blank">https://hhav14.com</a>
                         </li>
                         <li>
-                             八妹AV备用地址
-                            <a href="http://bameiav.xyz" target="_blank">http://bameiav.xyz</a>
-                         
-            
+                             灰灰av备用地址
+                            <a href="https://hhav15.com" target="_blank">https://hhav15.com</a>
+                            <a href="https://hhav20.com" target="_blank">https://hhav20.com</a>
+			     <a href="https://hhav21.com" target="_blank">https://hhav21.com</a>
+			       <a href="https://hhav16.com" target="_blank">https://hhav16.com</a>
+			     <a href="https://hhav41.com" target="_blank">https://hhav41.com</a>
                         </li>
                         <li>
-                             八妹AV海外地址
-                            <a id="go" href="https://www.bameiav.com" target="_blank">https://www.bameiav.com</a>
+                             灰灰av海外永久地址
+                            <a id="go" href="https://hhav.me" target="_blank">https://www.hhav.me</a>
                         </li>
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                       augo30595@gmail.com<br />
+                       hhav88@gmail.com<br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
         </div>
-     <div style="display:none">  
-     
-     </div>
-   
+	 <div style="display:none">  
+	 
+	 </div>
+    </body>
+</html>
