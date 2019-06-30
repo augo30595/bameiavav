@@ -1,4 +1,7 @@
-
+ <html>
+	<head>
+        <meta charset="UTF-8" />
+        <title>index</title>
         <style>
             html,
             body {
@@ -39,7 +42,7 @@
                 font-style: normal;
                 display: block;
                 margin: 2px 0;
-        font-size: 20px;
+		font-size: 20px;
             }
             .content-top li{
                 padding: 20px 0;
@@ -55,7 +58,7 @@
 
     <body>
         <div class="main">
-     <h1>灰灰av最新地址发布-猫咪AV</h1>
+	 <h1>灰灰av最新地址发布-猫咪AV</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
@@ -68,9 +71,9 @@
                              灰灰av备用地址
                             <a href="https://hhav15.com" target="_blank">https://hhav15.com</a>
                             <a href="https://hhav20.com" target="_blank">https://hhav20.com</a>
-                 <a href="https://hhav21.com" target="_blank">https://hhav21.com</a>
-                   <a href="https://hhav16.com" target="_blank">https://hhav16.com</a>
-                 <a href="https://hhav41.com" target="_blank">https://hhav41.com</a>
+			     <a href="https://hhav21.com" target="_blank">https://hhav21.com</a>
+			       <a href="https://hhav16.com" target="_blank">https://hhav16.com</a>
+			     <a href="https://hhav41.com" target="_blank">https://hhav41.com</a>
                         </li>
                         <li>
                              灰灰av海外永久地址
@@ -84,7 +87,8 @@
                 </div>
             </div>
         </div>
-     <div style="display:none">  
-     
-     </div>
-
+	 <div style="display:none">  
+	 
+	 </div>
+    </body>
+</html>
