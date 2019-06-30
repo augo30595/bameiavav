@@ -1,7 +1,4 @@
- <html>
-	<head>
-        <meta charset="UTF-8" />
-        <title>index</title>
+
         <style>
             html,
             body {
