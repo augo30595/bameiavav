@@ -29,6 +29,9 @@
             .content-top{
                 font-size: 20px;
             }
+	    h1{
+	    
+	    }
             .content-top h2{
                 background: #ff5970;
                 color: #fff;
@@ -79,7 +82,7 @@
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                       augo30595@gmail.com<br />
+                      <font color="#reg"> augo30595@gmail.com</font><br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
