@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<div class="content">
+                <div class="content-top">
+                    <h2>请大家 Ctrl+D 收藏本页</h2>
+                    <ul>
+                        <li>
+                            灰灰av最新地址
+                            <a href="https://hhav14.com" target="_blank">https://hhav14.com</a>
+                        </li>
+                        <li>
+                             灰灰av备用地址
+                            <a href="https://hhav15.com" target="_blank">https://hhav15.com</a>
+                            <a href="https://hhav20.com" target="_blank">https://hhav20.com</a>
+			     <a href="https://hhav21.com" target="_blank">https://hhav21.com</a>
+			       <a href="https://hhav16.com" target="_blank">https://hhav16.com</a>
+			     <a href="https://hhav41.com" target="_blank">https://hhav41.com</a>
+                        </li>
+                        <li>
+                             灰灰av海外永久地址
+                            <a id="go" href="https://hhav.me" target="_blank">https://www.hhav.me</a>
+                        </li>
 
-You can use the [editor on GitHub](https://github.com/augo30595/gengxin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/augo30595/gengxin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                    </ul>
+                    <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
+                       hhav88@gmail.com<br>
+                        会自动回复最新地址！</p>
+                </div>
+            </div>
